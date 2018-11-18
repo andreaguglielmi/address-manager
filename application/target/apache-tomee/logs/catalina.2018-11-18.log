@@ -1,0 +1,168 @@
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Server version:        Apache Tomcat (TomEE)/7.0.81 (1.7.5)
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Server built:          Aug 11 2017 10:21:27 UTC
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Server number:         7.0.81.0
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: OS Name:               Windows 10
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: OS Version:            10.0
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Architecture:          amd64
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Java Home:             C:\Program Files\Java\jdk1.8.0_111\jre
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: JVM Version:           1.8.0_111-b14
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: JVM Vendor:            Oracle Corporation
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: CATALINA_BASE:         C:\opensap\address-manager\application\target\apache-tomee
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: CATALINA_HOME:         C:\opensap\address-manager\application\target\apache-tomee
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dtomee.remote.support=true
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dopenejb.system.apps=false
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Djava.util.logging.config.file=C:\opensap\address-manager\application\target\apache-tomee\conf\logging.properties
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -javaagent:C:\opensap\address-manager\application\target\apache-tomee\lib\openejb-javaagent.jar
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Djava.io.tmpdir=C:\opensap\address-manager\application\target\apache-tomee\temp
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Djava.endorsed.dirs=C:\opensap\address-manager\application\target\apache-tomee\endorsed
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dcatalina.base=C:\opensap\address-manager\application\target\apache-tomee
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dcatalina.home=C:\opensap\address-manager\application\target\apache-tomee
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dcatalina.ext.dirs=C:\opensap\address-manager\application\target\apache-tomee\lib
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+nov 18, 2018 2:06:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAZIONI: Command line argument: -ea
+nov 18, 2018 2:06:29 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFORMAZIONI: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_111\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\IntelSGXPSW\bin\x64\Release\;C:\Program Files\Intel\IntelSGXPSW\bin\win32\Release\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Calibre2\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Java\maven3.6.0\apache-maven-3.6.0\bin;C:\Users\orion\AppData\Local\Microsoft\WindowsApps;C:\Users\orion\AppData\Roaming\npm;.
+nov 18, 2018 2:06:29 PM org.apache.coyote.AbstractProtocol init
+INFORMAZIONI: Initializing ProtocolHandler ["http-bio-8080"]
+nov 18, 2018 2:06:29 PM org.apache.coyote.AbstractProtocol init
+INFORMAZIONI: Initializing ProtocolHandler ["ajp-bio-8009"]
+nov 18, 2018 2:06:30 PM org.apache.openejb.util.OptionsLog info
+INFORMAZIONI: Using 'tomee.remote.support=true'
+nov 18, 2018 2:06:30 PM org.apache.openejb.util.OptionsLog info
+INFORMAZIONI: Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+nov 18, 2018 2:06:30 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: ********************************************************************************
+nov 18, 2018 2:06:30 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: OpenEJB http://tomee.apache.org/
+nov 18, 2018 2:06:30 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: Startup: Sun Nov 18 14:06:30 CET 2018
+nov 18, 2018 2:06:30 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: Copyright 1999-2015 (C) Apache OpenEJB/TomEE Project, All Rights Reserved.
+nov 18, 2018 2:06:30 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: Version: 4.7.5
+nov 18, 2018 2:06:30 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: Build date: 20170927
+nov 18, 2018 2:06:30 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: Build time: 12:02
+nov 18, 2018 2:06:30 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: ********************************************************************************
+nov 18, 2018 2:06:30 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: openejb.home = C:\opensap\address-manager\application\target\apache-tomee
+nov 18, 2018 2:06:30 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMAZIONI: openejb.base = C:\opensap\address-manager\application\target\apache-tomee
+nov 18, 2018 2:06:30 PM org.apache.openejb.cdi.CdiBuilder initializeOWB
+INFORMAZIONI: Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@49c43f4e
+nov 18, 2018 2:06:30 PM org.apache.openejb.cdi.CdiBuilder initializeOWB
+INFORMAZIONI: Succeeded in installing singleton service
+nov 18, 2018 2:06:30 PM org.apache.openejb.config.ConfigurationFactory init
+INFORMAZIONI: openejb configuration file is 'C:\opensap\address-manager\application\target\apache-tomee\conf\tomee.xml'
+nov 18, 2018 2:06:31 PM org.apache.openejb.config.ConfigurationFactory configureService
+INFORMAZIONI: Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+nov 18, 2018 2:06:31 PM org.apache.openejb.config.ConfigurationFactory configureService
+INFORMAZIONI: Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+nov 18, 2018 2:06:31 PM org.apache.openejb.util.OptionsLog info
+INFORMAZIONI: Using 'openejb.system.apps=false'
+nov 18, 2018 2:06:31 PM org.apache.openejb.util.OptionsLog info
+INFORMAZIONI: Using 'openejb.deployments.classpath=false'
+nov 18, 2018 2:06:31 PM org.apache.openejb.assembler.classic.Assembler createRecipe
+INFORMAZIONI: Creating TransactionManager(id=Default Transaction Manager)
+nov 18, 2018 2:06:31 PM org.apache.openejb.assembler.classic.Assembler createRecipe
+INFORMAZIONI: Creating SecurityService(id=Tomcat Security Service)
+nov 18, 2018 2:06:31 PM org.apache.openejb.server.ServiceManager initServer
+INFORMAZIONI: Creating ServerService(id=cxf-rs)
+nov 18, 2018 2:06:31 PM org.apache.openejb.server.SimpleServiceManager start
+INFORMAZIONI:   ** Bound Services **
+nov 18, 2018 2:06:31 PM org.apache.openejb.server.SimpleServiceManager printRow
+INFORMAZIONI:   NAME                 IP              PORT  
+nov 18, 2018 2:06:31 PM org.apache.openejb.server.SimpleServiceManager start
+INFORMAZIONI: -------
+nov 18, 2018 2:06:31 PM org.apache.openejb.server.SimpleServiceManager start
+INFORMAZIONI: Ready!
+nov 18, 2018 2:06:31 PM org.apache.catalina.startup.Catalina load
+INFORMAZIONI: Initialization processed in 2554 ms
+nov 18, 2018 2:06:31 PM org.apache.tomee.catalina.OpenEJBNamingContextListener bindResource
+INFORMAZIONI: Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+nov 18, 2018 2:06:31 PM org.apache.openejb.assembler.classic.Assembler createRecipe
+INFORMAZIONI: Creating Resource(id=UserDatabase)
+nov 18, 2018 2:06:31 PM org.apache.catalina.core.StandardService startInternal
+INFORMAZIONI: Starting service Catalina
+nov 18, 2018 2:06:31 PM org.apache.catalina.core.StandardEngine startInternal
+INFORMAZIONI: Starting Servlet Engine: Apache Tomcat (TomEE)/7.0.81 (1.7.5)
+nov 18, 2018 2:06:31 PM org.apache.catalina.startup.HostConfig deployWAR
+INFORMAZIONI: Deploying web application archive C:\opensap\address-manager\application\target\apache-tomee\webapps\ROOT.war
+nov 18, 2018 2:06:31 PM org.apache.tomee.catalina.TomcatWebAppBuilder init
+INFORMAZIONI: ------------------------- localhost -> /
+nov 18, 2018 2:06:31 PM org.apache.openejb.util.JarExtractor extract
+INFORMAZIONI: Extracting jar: C:\opensap\address-manager\application\target\apache-tomee\webapps\ROOT.war
+nov 18, 2018 2:06:37 PM org.apache.openejb.util.JarExtractor extract
+INFORMAZIONI: Extracted path: C:\opensap\address-manager\application\target\apache-tomee\webapps\ROOT
+nov 18, 2018 2:06:37 PM org.apache.openejb.util.OptionsLog info
+INFORMAZIONI: Using 'openejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager'
+nov 18, 2018 2:06:39 PM org.apache.openejb.config.ConfigurationFactory configureApplication
+INFORMAZIONI: Configuring enterprise application: C:\opensap\address-manager\application\target\apache-tomee\webapps\ROOT
+nov 18, 2018 2:06:39 PM org.apache.openejb.config.ConfigurationFactory configureService
+INFORMAZIONI: Configuring Service(id=Default Managed Container, type=Container, provider-id=Default Managed Container)
+nov 18, 2018 2:06:39 PM org.apache.openejb.config.AutoConfig createContainer
+INFORMAZIONI: Auto-creating a container for bean .Comp1052699962: Container(type=MANAGED, id=Default Managed Container)
+nov 18, 2018 2:06:39 PM org.apache.openejb.assembler.classic.Assembler createRecipe
+INFORMAZIONI: Creating Container(id=Default Managed Container)
+nov 18, 2018 2:06:39 PM org.apache.openejb.core.managed.SimplePassivater init
+INFORMAZIONI: Using directory C:\opensap\address-manager\application\target\apache-tomee\temp for stateful session passivation
+nov 18, 2018 2:06:40 PM org.apache.openejb.config.AppInfoBuilder build
+INFORMAZIONI: Enterprise application "C:\opensap\address-manager\application\target\apache-tomee\webapps\ROOT" loaded.
+nov 18, 2018 2:06:40 PM org.apache.openejb.assembler.classic.Assembler createApplication
+INFORMAZIONI: Assembling app: C:\opensap\address-manager\application\target\apache-tomee\webapps\ROOT
+nov 18, 2018 2:06:40 PM org.apache.openejb.cdi.CdiBuilder initSingleton
+INFORMAZIONI: Existing thread singleton service in SystemInstance(): org.apache.openejb.cdi.ThreadSingletonServiceImpl@49c43f4e
+nov 18, 2018 2:06:40 PM org.apache.openejb.cdi.OpenEJBLifecycle startApplication
+INFORMAZIONI: OpenWebBeans Container is starting...
+nov 18, 2018 2:06:40 PM org.apache.webbeans.plugins.PluginLoader startUp
+INFORMAZIONI: Adding OpenWebBeansPlugin : [CdiPlugin]
+nov 18, 2018 2:06:40 PM org.apache.webbeans.plugins.PluginLoader startUp
+INFORMAZIONI: Adding OpenWebBeansPlugin : [OpenWebBeansJsfPlugin]
+nov 18, 2018 2:06:45 PM org.apache.webbeans.config.BeansDeployer deploySingleAnnotatedType
+INFORMAZIONI: Skipping deployment of Class class com.sap.cloud.sdk.cloudplatform.auditlog.ScpCfAuditLogdue to a NoClassDefFoundError: com/sap/xs/audit/api/AuditLogMessage
+nov 18, 2018 2:06:48 PM org.apache.webbeans.config.BeansDeployer validateInjectionPoints
+INFORMAZIONI: All injection points were validated successfully.
+nov 18, 2018 2:06:48 PM org.apache.openejb.cdi.OpenEJBLifecycle startApplication
+INFORMAZIONI: OpenWebBeans Container has started, it took 8023 ms.
+nov 18, 2018 2:06:49 PM org.apache.openejb.assembler.classic.Assembler createApplication
+INFORMAZIONI: Deployed Application(path=C:\opensap\address-manager\application\target\apache-tomee\webapps\ROOT)
+nov 18, 2018 2:06:50 PM org.apache.catalina.startup.HostConfig deployWAR
+INFORMAZIONI: Deployment of web application archive C:\opensap\address-manager\application\target\apache-tomee\webapps\ROOT.war has finished in 19,123 ms
+nov 18, 2018 2:06:50 PM org.apache.coyote.AbstractProtocol start
+INFORMAZIONI: Starting ProtocolHandler ["http-bio-8080"]
+nov 18, 2018 2:06:50 PM org.apache.coyote.AbstractProtocol start
+INFORMAZIONI: Starting ProtocolHandler ["ajp-bio-8009"]
+nov 18, 2018 2:06:50 PM org.apache.catalina.startup.Catalina start
+INFORMAZIONI: Server startup in 19315 ms
